@@ -1,5 +1,5 @@
-±àÒëÃüÁî£º	gcc server.c -o server
+ç¼–è¯‘å‘½ä»¤ï¼š	gcc server.c -o server
 		gcc client.c -o client
 
-ÔËĞĞÃüÁî£º	./server
+è¿è¡Œå‘½ä»¤ï¼š	./server
 		./client
